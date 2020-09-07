@@ -7,6 +7,9 @@ This is [dnssecuritygroup.therootzone](http://dnssecuritygroup.therootzone/), an
 
 Now, here is [therootzone.dnssecuritygroup](http://therootzone.dnssecuritygroup), woohoo!!
 
+Go to [NameBase](https://www.namebase.io/blog/tutorial-1-what-is-handshake-and-hns/) to learn more.
+
+
 # [CyberIntelligenceGroup](http://masterthyself.cyberintelligencegroup/) 
 
 [INNERINETFOUNDATION](http://official.innerinetfoundation/) | [EARTHHEART](http://heartearth.earthheart/)
