@@ -5,7 +5,8 @@ Now, We [ThePeople](http://we.thepeople/) can customize the roots making the UX 
 
 - [Root name server Wikipedia](https://en.wikipedia.org/wiki/Root_name_server)
 - [DNS Root Servers](https://securitytrails.com/blog/dns-root-servers)
-This is [dnssecuritygroup.therootzone](http://dnssecuritygroup.therootzone/), and because we own these Domains and control the DNS root zone we can have many subdomain/domain combinations. 
+
+This is [dnssecuritygroup.therootzone](http://dnssecuritygroup.therootzone/)
 
 Now, here is [therootzone.dnssecuritygroup](http://therootzone.dnssecuritygroup), woohoo!!
 
