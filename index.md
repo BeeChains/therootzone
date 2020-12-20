@@ -9,6 +9,7 @@ Now, We [ThePeople](http://we.thepeople/) can customize the roots making the UX 
 - [Root Zone Files of the Internet](https://www.iana.org/domains/root/files)
 - [Root name server Wikipedia](https://en.wikipedia.org/wiki/Root_name_server)
 - [DNS Root Servers](https://securitytrails.com/blog/dns-root-servers)
+- [DECENTRALIZED DNS/](http://dnsdesigns.decentralizeddns.hns.to/)
 - [Handshake a Decentralized DNS or Alternate Root Zone File](https://handshake.org/)
 - [Learn NameBase](https://learn.namebase.io/about-handshake/about-handshake)
 
