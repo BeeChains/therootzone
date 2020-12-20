@@ -1,8 +1,8 @@
 ## THE ROOT ZONE
 
-[IINC](https://dlink.iinc.hns.to/) | [The Root Zone dLink](therootzone.hns.to/) | [Contact](https://innerinetcompany.webflow.io/contact)
+[IINC](https://dlink.iinc.hns.to/) | [The Root Zone dLink](http://therootzone.hns.to/) | [Contact](https://innerinetcompany.webflow.io/contact)
 
-[![image](https://user-images.githubusercontent.com/37987346/101999396-a37e4380-3caa-11eb-8cc6-e61fb53c7855.png)](http://shapereality.innerinetcompany.hns.to/)
+[![image](https://user-images.githubusercontent.com/37987346/101999396-a37e4380-3caa-11eb-8cc6-e61fb53c7855.png)](http://shapereality.innerinetcompany.hns.to/) We Naturally Nourish The Roots to produce the potential yield of abundant fruits.
 
 Now, We [ThePeople](http://we.thepeople/) CAN, customize the roots making the UX more personal than ICANN ever would.
 
