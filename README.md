@@ -1,2 +1,2 @@
-# therootzone | [earthheart](http:heartearth.earthheart/)
-The Root Zone Domain
+# | therootzone | 
+Inner I Net Company
