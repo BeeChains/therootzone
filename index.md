@@ -16,6 +16,7 @@ Now, We [ThePeople](http://we.thepeople.hns.to/) CAN, customize the roots making
 - [DECENTRALIZED DNS/](http://dnsdesigns.decentralizeddns.hns.to/)
 - [Meeet Handshake a Decentralized DNS or Alternate Root Zone File](https://www.namebase.io/blog/meet-handshake-decentralizing-dns-to-improve-the-security-of-the-internet/)
 - [Handshake](https://handshake.org/)
+- [NameBase](https://namebase.io/)
 
 
 # [CyberIntelligenceGroup](http://masterthyself.cyberintelligencegroup.hns.to/) , [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/)
