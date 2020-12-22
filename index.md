@@ -4,8 +4,7 @@
 
 [![image](https://user-images.githubusercontent.com/37987346/101999396-a37e4380-3caa-11eb-8cc6-e61fb53c7855.png)](http://shapereality.innerinetcompany.hns.to/) 
 
-
-Our Handshake Top Level Domains are Grown from the Root Of Perception. We [Shape Reality](https://shapereality.hns.to/) by Nourishing The Roots to maximize the potential yield of abundant fruits. 
+# At [Inner I Net Company](http://dlink.innerinetcompany.hns.to/), our Handshake Top Level Domains are nourished from the ROOT OF PERCEPTION to maximize potentials for an abundance of fruits. [Own The Web 3](http://official.owntheweb3.hns.to/) we Consciously CHOOSE to Bend and [SHAPE Reality](http://innerinetcompany.shapereality.hns.to/) while customizing [The Root Zone](http://therootzone.hns.to/) File of the Internet with our [HNS-DOMAINS](http://home.hns-domains.hns.to/).
 
 
 Now, We [ThePeople](http://we.thepeople.hns.to/) CAN, customize the roots making the UX more personal than ICANN ever would.
@@ -22,5 +21,5 @@ Like this [dnssecuritygroup.therootzone](http://dnssecuritygroup.therootzone.hns
 
 Now flip-flop, here is [therootzone.dnssecuritygroup](http://therootzone.dnssecuritygroup.hns.to/), woohoo!!
 
-# [CyberIntelligenceGroup](http://masterthyself.cyberintelligencegroup.hns.to/) [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/)
+# [CyberIntelligenceGroup](http://masterthyself.cyberintelligencegroup.hns.to/) , [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/)
 
