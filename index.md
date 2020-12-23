@@ -10,6 +10,7 @@ Now, We [ThePeople](http://we.thepeople.hns.to/) CAN, customize the roots making
 
 ![image](https://user-images.githubusercontent.com/37987346/102925031-a9211980-4460-11eb-87b9-5c3727809331.png)DNS hierarchy. Source cloudflare.com
 
+- [Alternative DNS Providers](https://en.wikipedia.org/wiki/Alternative_DNS_root#Alternative_DNS_providers) Wikipedia Source.
 - [Root Zone Files of the Internet](https://www.iana.org/domains/root/files)
 - [Root name server Wikipedia](https://en.wikipedia.org/wiki/Root_name_server)
 - [DNS Root Servers](https://securitytrails.com/blog/dns-root-servers)
