@@ -11,12 +11,12 @@ Now, We [ThePeople](http://we.thepeople.hns.to/) CAN, customize the roots making
 ![image](https://user-images.githubusercontent.com/37987346/102925031-a9211980-4460-11eb-87b9-5c3727809331.png)DNS hierarchy. Source cloudflare.com
 
 - [Alternative DNS ROOT](https://en.wikipedia.org/wiki/Alternative_DNS_root#Alternative_DNS_providers) Wikipedia Source.
-- [Root Zone Files of the Internet](https://www.iana.org/domains/root/files)
-- [Root name server Wikipedia](https://en.wikipedia.org/wiki/Root_name_server)
-- [DNS Root Servers](https://securitytrails.com/blog/dns-root-servers)
+- [Root Zone Files of the Internet](https://www.iana.org/domains/root/files) IANA source
+- [Root name server](https://en.wikipedia.org/wiki/Root_name_server) Wikipedia source
+- [DNS Root Servers](https://securitytrails.com/blog/dns-root-servers) SecurityTrails source
 - [DECENTRALIZED DNS/](http://dnsdesigns.decentralizeddns.hns.to/)
-- [Meeet Handshake a Decentralized DNS or Alternate Root Zone File](https://www.namebase.io/blog/meet-handshake-decentralizing-dns-to-improve-the-security-of-the-internet/)
-- [Handshake](https://handshake.org/)
+- [Meeet Handshake a Decentralized DNS or Alternate Root Zone File](https://www.namebase.io/blog/meet-handshake-decentralizing-dns-to-improve-the-security-of-the-internet/) NameBase source
+- [Handshake](https://handshake.org/) 
 - [NameBase](https://namebase.io/)
 
 
