@@ -14,6 +14,7 @@ Now, We [ThePeople](http://we.thepeople.hns.to/) CAN, customize the roots making
 - [Root Zone Files of the Internet](https://www.iana.org/domains/root/files) IANA source
 - [Root name server](https://en.wikipedia.org/wiki/Root_name_server) Wikipedia source
 - [DNS Root Servers](https://securitytrails.com/blog/dns-root-servers) SecurityTrails source
+- [DNS Root Zone](https://en.wikipedia.org/wiki/DNS_root_zone) Wikipedia source
 - [DECENTRALIZED DNS/](http://dnsdesigns.decentralizeddns.hns.to/)
 - [Meeet Handshake a Decentralized DNS or Alternate Root Zone File](https://www.namebase.io/blog/meet-handshake-decentralizing-dns-to-improve-the-security-of-the-internet/) NameBase source
 - [Handshake](https://handshake.org/) 
