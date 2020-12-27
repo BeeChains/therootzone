@@ -1,4 +1,4 @@
-## THE ROOT ZONE
+## THE ROOT ZONE/ | a Handshake TLD
 
 | [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/) | [IINC](https://dlink.iinc.hns.to/) | [The Root Zone dLink](http://therootzone.hns.to/) | [Contact](https://innerinetcompany.webflow.io/contact) |
 
