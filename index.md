@@ -15,12 +15,14 @@ Now, We [ThePeople](http://we.thepeople.hns.to/) CAN, customize the roots making
 - [Root name server](https://en.wikipedia.org/wiki/Root_name_server) Wikipedia source
 - [Root-Servers.org](https://root-servers.org/)  
 - [DNS Root Zone](https://en.wikipedia.org/wiki/DNS_root_zone) Wikipedia source
+- [Decentralized DIDs](https://www.w3.org/TR/did-core/)
 - [DECENTRALIZED DNS/](http://dnsdesigns.decentralizeddns.hns.to/)
 - [Meeet Handshake a Decentralized DNS or Alternate Root Zone File](https://www.namebase.io/blog/meet-handshake-decentralizing-dns-to-improve-the-security-of-the-internet/) NameBase source
 - [Handshake](https://handshake.org/) 
 - [Handshake Protocol Community Group](https://www.w3.org/community/hns/)
 - [NameBase](https://namebase.io/)
 - [W3C/HNS-CORE-SPEC](https://github.com/w3c/hns-core-spec/)
+- [W3C/DID-CORE](https://github.com/w3c/did-core/)
 - [W3.org](https://w3.org/)
 
 # [CyberIntelligenceGroup](http://masterthyself.cyberintelligencegroup.hns.to/) , [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/)
