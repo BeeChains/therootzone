@@ -18,8 +18,10 @@ Now, We [ThePeople](http://we.thepeople.hns.to/) CAN, customize the roots making
 - [DECENTRALIZED DNS/](http://dnsdesigns.decentralizeddns.hns.to/)
 - [Meeet Handshake a Decentralized DNS or Alternate Root Zone File](https://www.namebase.io/blog/meet-handshake-decentralizing-dns-to-improve-the-security-of-the-internet/) NameBase source
 - [Handshake](https://handshake.org/) 
+- [Handshake Protocol Community Group](https://www.w3.org/community/hns/)
 - [NameBase](https://namebase.io/)
-
+- [W3C/HNS-CORE-SPEC](https://github.com/w3c/hns-core-spec/)
+- [W3.org](https://w3.org/)
 
 # [CyberIntelligenceGroup](http://masterthyself.cyberintelligencegroup.hns.to/) , [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/)
 
