@@ -13,6 +13,7 @@ Now, We [ThePeople](http://we.thepeople.hns.to/) CAN, customize the roots making
 [![image](https://user-images.githubusercontent.com/37987346/108233175-82562b00-7111-11eb-9a52-3b2d8ae96baf.png)](https://static.coindesk.com/wp-content/uploads/2020/06/Screen-Shot-2020-06-22-at-12.18.35-PM-775x532.png?format=webp) [Handshake Goes Live With an Uncensorable Internet Browser](https://www.coindesk.com/handshake-goes-live-with-an-uncensorable-internet-browser)
 
 - [Alternative DNS ROOT](https://en.wikipedia.org/wiki/Alternative_DNS_root#Alternative_DNS_providers) Wikipedia Source.
+- [Root Certificate](https://en.wikipedia.org/wiki/Root_certificate) Wikipedia source
 - [Root Zone Files of the Internet](https://www.iana.org/domains/root/files) IANA source
 - [Root name server](https://en.wikipedia.org/wiki/Root_name_server) Wikipedia source
 - [Root-Servers.org](https://root-servers.org/)  
