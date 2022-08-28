@@ -1,5 +1,28 @@
+<head>
 ## THE ROOT ZONE/ | a Handshake TLD
-
+<script async src="https://components.getmash.com/boost/boost.js"></script>
+</head> 
+<script type="application/javascript" defer="defer">
+  (function () {
+    window.MashSettings = {
+      id: "09a8a185-df7e-4dfb-ae4f-86b940eaa9ba",
+    };
+    
+    var loader = function () {
+      window.Mash.init(window.MashSettings);
+    };
+    
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.async = true;
+    script.onload = loader;
+    script.src = "https://wallet.getmash.com/sdk/sdk.js";
+    
+    var head = document.getElementsByTagName("head")[0];
+    head.appendChild(script);
+  })();
+</script>
+   <mash-boost-button icon="lightning" layout-mode="float" float-location="bottom-left" variant="colorized"></mash-boost-button>
 | [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/) | [IINC](https://dlink.iinc.hns.to/) | [The Root Zone dLink](http://therootzone.hns.to/) | [Contact](https://innerinetcompany.webflow.io/contact) |
 
 [![image](https://user-images.githubusercontent.com/37987346/101999396-a37e4380-3caa-11eb-8cc6-e61fb53c7855.png)](http://shapereality.innerinetcompany.hns.to/) 
