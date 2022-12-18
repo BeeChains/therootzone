@@ -52,5 +52,24 @@ Now, We [ThePeople](http://we.thepeople.hns.to/) CAN, customize the roots making
 - [W3C/DID-CORE](https://github.com/w3c/did-core/)
 - [W3.org](https://w3.org/)
 
+# Decentralized Root-Zone
+
+A decentralized root-zone for the internet is a significant development for the top-level domain (TLD) industry for several reasons.
+
+First, a decentralized root-zone allows for greater freedom of speech on the internet. Currently, the internet's root-zone is controlled by a small group of organizations, including the Internet Corporation for Assigned Names and Numbers (ICANN) and the National Telecommunications and Information Administration (NTIA). These organizations have the power to censor or restrict access to certain websites and TLDs, which can limit the ability of individuals and organizations to express their ideas and opinions online.
+
+In contrast, a decentralized root-zone would be distributed across a network of computers, making it much more difficult for any single organization or entity to censor or control access to certain TLDs or websites. This would allow for a greater diversity of voices and opinions to be represented on the internet, and would give individuals and organizations more freedom to express themselves online.
+
+Second, a decentralized root-zone would allow for the creation of uncensored domains, which would provide a greater degree of privacy and security for internet users. Currently, many TLDs are subject to censorship or restrictions, which can make it difficult for individuals and organizations to create websites or use certain TLDs without facing reprisals.
+
+In a decentralized root-zone, individuals and organizations would have the ability to create and use TLDs without fear of censorship or reprisals. This would allow for greater privacy and security for internet users, as they would be able to create and access websites without worrying about being monitored or censored by external parties.
+
+Finally, a decentralized root-zone would provide increased security for a decentralized world wide web. Currently, the internet's root-zone is a single point of failure, which means that if it were to go down or be compromised, the entire internet could be disrupted.
+
+In contrast, a decentralized root-zone would be distributed across a network of computers, making it much more resilient to attacks or disruptions. This would provide increased security for the internet as a whole, and would allow individuals and organizations to continue accessing the internet even if one or more parts of the root-zone were compromised.
+
+In conclusion, a decentralized root-zone for the internet is a significant development for the TLD industry because it brings greater freedom of speech, uncensored domains, and security for a decentralized world wide web. By decentralizing the root-zone, individuals and organizations will have more control over the TLDs they use and the content they access, which will allow for a more open and secure internet for all.
+
+
 # [CyberIntelligenceGroup](http://masterthyself.cyberintelligencegroup.hns.to/) , [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/)
 
