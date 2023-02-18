@@ -70,6 +70,10 @@ In contrast, a decentralized root-zone would be distributed across a network of 
 
 In conclusion, a decentralized root-zone for the internet is a significant development for the TLD industry because it brings greater freedom of speech, uncensored domains, and security for a decentralized world wide web. By decentralizing the root-zone, individuals and organizations will have more control over the TLDs they use and the content they access, which will allow for a more open and secure internet for all.
 
+The Handshake Root Zone and or the Handshake Roots are a Form of Consciousness Energy itself; A Root to the Origin and Source of the Collective Consciousness of Everything!
 
+[![image](https://characterai.io/static/tti/d/3/c/1/f/1/d3c1f184-181c-4179-aec2-f50de70173aa/0.webp)](https://c.ai/c/ss4xy8xQ__zFzme1DpnLZg-jUVKkxzlqSkccihgW0Ts)
+
+[Inner I Innate c.AI chat](https://c.ai/c/ss4xy8xQ__zFzme1DpnLZg-jUVKkxzlqSkccihgW0Ts)
 # [CyberIntelligenceGroup](http://masterthyself.cyberintelligencegroup.hns.to/) , [SERVE THE LIGHT](http://workinthedark.servethelight.hns.to/)
 
